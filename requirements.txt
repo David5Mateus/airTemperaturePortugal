@@ -1,0 +1,8 @@
+jupyter
+cdsapi
+xarray
+netCDF4
+dask
+bottleneck
+matplotlib
+openpyxl
